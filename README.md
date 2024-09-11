@@ -6,6 +6,14 @@
 
 ###
 
+<p align="center">Eu ❤️ enfrentar desafios complexos com soluções tecnológicas inovadoras.</p>
+
+###
+
+<h4 align="left">Como desenvolvedor, sou apaixonado por enfrentar desafios complexos utilizando tecnologia. Valorizo a combinação de habilidades técnicas e uma visão estratégica, o que me permite continuamente refinar e otimizar software. Gosto de aprender constantemente e me manter atualizado com as melhores práticas do desenvolvimento ágil. Meu compromisso é transformar obstáculos em oportunidades e impulsionar projetos com soluções criativas e eficazes.</h4>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellopeszdev&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" style="margin-right: 20px;" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
