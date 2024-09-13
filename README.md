@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gabriellopesdev" target="_blank">
+  <a href="https://github.com/gabriellopeszdev" target="_blank">
     <img src="https://img.shields.io/badge/Desenvolvedor_-_🖥️-0A76D4?style=for-the-badge&logo=github&logoColor=white" alt="Desenvolvedor" style="font-size: 16px; height: 40px;" />
   </a>
 </p>
@@ -26,9 +26,9 @@
 ## Estatísticas de Contribuição
 
 <p align="center">
-  <a href="https://github.com/gabriellopesdev" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopesdev&theme=dark" alt="Streak Stats" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopesdev&layout=compact&theme=dark" alt="Principais Tecnologias" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px;" />
+  <a href="https://github.com/gabriellopeszdev" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopeszdev&theme=dark" alt="Streak Stats" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopeszdev&layout=compact&theme=dark" alt="Principais Tecnologias" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px;" />
   </a>
 </p>
 
