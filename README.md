@@ -15,9 +15,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellopeszdev&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" style="margin-right: 20px;" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellopeszdev&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=6&theme=dark&hide_border=false" height="140" alt="languages graph" style="margin-right: 10px;" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&card_width=250" height="140" alt="stats graph" />
 </div>
+
 
 
 ###
@@ -35,12 +36,6 @@
   <a href="https://www.linkedin.com/in/gabriel-lopes-5747032bb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-</div>
-
-
-###
-
-<div align="center">
 </div>
 
 ###
