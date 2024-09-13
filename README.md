@@ -1,65 +1,86 @@
-<br clear="both">
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://imgur.com/Ibr71GO.png" />
 
-<div align="center">
-  <img height="277" src="https://imgur.com/Ibr71GO.png"  />
-</div>
+<p align="center">
+  🚀 **Transformando desafios complexos em soluções tecnológicas inovadoras**<br><br>
+  Sou um desenvolvedor apaixonado por enfrentar desafios complexos utilizando tecnologia. Valorizo a combinação de habilidades técnicas e uma visão estratégica, o que me permite continuamente refinar e otimizar software. Gosto de aprender constantemente e me manter atualizado com as melhores práticas do desenvolvimento ágil. Meu compromisso é transformar obstáculos em oportunidades e impulsionar projetos com soluções criativas e eficazes.
+</p>
 
-###
-
-<p align="center">Eu ❤️ enfrentar desafios complexos com soluções tecnológicas inovadoras.</p>
-
-###
-
-<h4 align="left">Como desenvolvedor, sou apaixonado por enfrentar desafios complexos utilizando tecnologia. Valorizo a combinação de habilidades técnicas e uma visão estratégica, o que me permite continuamente refinar e otimizar software. Gosto de aprender constantemente e me manter atualizado com as melhores práticas do desenvolvimento ágil. Meu compromisso é transformar obstáculos em oportunidades e impulsionar projetos com soluções criativas e eficazes.</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellopeszdev&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=6&theme=dark&hide_border=false" height="140" alt="languages graph" style="margin-right: 10px;" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&card_width=250" height="140" alt="stats graph" />
-</div>
-
-
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/gabrielopessz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+<p align="center">
+  <a href="https://github.com/gabriellopesdev" target="_blank">
+    <img src="https://img.shields.io/badge/Desenvolvedor_-_🖥️-0A76D4?style=for-the-badge&logo=github&logoColor=white" alt="Desenvolvedor" style="font-size: 16px; height: 40px;" />
   </a>
-  <a href="https://discord.com/invite/seuconvite" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</p>
+
+## Áreas de Interesse
+
+### Desenvolvimento Front-end
+- **Front-end:** Criar interfaces atraentes e funcionais com HTML, CSS, JavaScript e React.
+- **UX/UI Design:** Melhorar a experiência do usuário e a estética das aplicações web.
+
+### Interesse em Back-end
+- **Back-end:** Conhecimentos básicos em Node.js e Express, com interesse em expandir.
+
+### Aprendizado Contínuo
+- **Certificações e Cursos:** Busco constantemente aprimorar minhas habilidades e conhecimentos.
+
+## Estatísticas de Contribuição
+
+<p align="center">
+  <a href="https://github.com/gabriellopesdev" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopesdev&theme=dark" alt="Streak Stats" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopesdev&layout=compact&theme=dark" alt="Principais Tecnologias" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px;" />
+  </a>
+</p>
+
+
+
+
+## Habilidades
+
+#### Principal:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  align="right" min-width="400px"   max-width="400px" width="400px" alt="Computador iuriCode">
+
+#### Bancos de Dados:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+#### Utilitários:
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br>
+
+## Controle de Versão
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## Certificações e Cursos
+
+### Em andamento:
+- **Bacharelado em Sistema de Informação** - [Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA] 
+
+## Contatos e Redes Sociais
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-lopes-5747032bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:devgabriel75@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-  <a href="https://www.linkedin.com/in/gabriel-lopes-5747032bb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgur.com/9eUAMgz.gif"  />
-</div>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
