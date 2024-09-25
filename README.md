@@ -18,7 +18,7 @@
 - **UX/UI Design:** Melhorar a experiência do usuário e a estética das aplicações web.
 
 ### Interesse em Back-end
-- **Back-end:** Conhecimentos básicos em Node.js e Express, com interesse em expandir.
+- **Back-end:** Conhecimentos básicos em Node.js, Express e Fastify, com interesse em expandir.
 
 ### Aprendizado Contínuo
 - **Certificações e Cursos:** Busco constantemente aprimorar minhas habilidades e conhecimentos.
