@@ -4,15 +4,16 @@
   🚀 <strong>Transformando desafios complexos em soluções tecnológicas inovadoras</strong>
 </p>
 
-<p align="center" >
+<p align="center" style="margin: 0;">
   Sou um desenvolvedor apaixonado por enfrentar desafios complexos utilizando tecnologia. Valorizo a combinação de habilidades técnicas e uma visão estratégica, o que me permite continuamente refinar e otimizar software. Gosto de aprender constantemente e me manter atualizado com as melhores práticas do desenvolvimento ágil. Meu compromisso é transformar obstáculos em oportunidades e impulsionar projetos com soluções criativas e eficazes.
 </p>
 
-<p align="center">
+<p align="center" style="margin: 0;">
   <a href="https://github.com/gabriellopeszdev" target="_blank">
-    <img src="https://img.shields.io/badge/Desenvolvedor_-_🖥️-0A76D4?style=for-the-badge&logo=github&logoColor=white" alt="Desenvolvedor" style="font-size: 16px; height: 40px;" />
+    <img src="https://img.shields.io/badge/Desenvolvedor_-_🖥️-0A76D4?style=for-the-badge&logo=github&logoColor=white" alt="Desenvolvedor" style="font-size: 16px; height: 40px; margin: 0px;" />
   </a>
 </p>
+
 
 ## Áreas de Interesse
 
@@ -30,16 +31,14 @@
 
 <p align="center">
   <a href="https://github.com/gabriellopeszdev" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopeszdev&theme=dark" alt="Streak Stats" style="border-radius: 10px; border: 2px solid #ddd; width: 500px; height: 250px; margin-bottom: 0;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopeszdev&theme=dark" alt="Streak Stats" style="border-radius: 10px; border: 2px solid #ddd; width: 500px; height: 250px; margin: 0;" />
   </a>
 </p>
-
-<p align="center" style="margin-top: -10px;">
+<p align="center" style="margin: 0;">
   <a href="https://github.com/gabriellopeszdev" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Total de Commits" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Total de Commits" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px; margin: 0;" />
   </a>
 </p>
-
 
 
 
