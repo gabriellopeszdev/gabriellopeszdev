@@ -29,16 +29,21 @@
 
 ## Estatísticas de Contribuição
 
-<p align="center">
-  <a href="https://github.com/gabriellopeszdev" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopeszdev&theme=dark" alt="Streak Stats" style="border-radius: 10px; border: 2px solid #ddd; width: 500px; height: 250px; margin: 0;" />
-  </a>
-</p>
-<p align="center" style="margin: 0;">
-  <a href="https://github.com/gabriellopeszdev" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Total de Commits" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px; margin: 0;" />
-  </a>
-</p>
+<div align="center" style="margin: 0; padding: 0;">
+  <div style="margin: 0; padding: 0;">
+    <a href="https://github.com/gabriellopeszdev" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopeszdev&theme=dark" alt="Streak Stats" style="border-radius: 10px; border: 2px solid #ddd; width: 500px; height: 250px; margin: 0;" />
+    </a>
+  </div>
+  <div style="margin: 0; padding: 0;">
+    <a href="https://github.com/gabriellopeszdev" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Total de Commits" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px; margin: 0;" />
+    </a>
+  </div>
+</div>
+
+
+
 
 
 
