@@ -1,7 +1,11 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width="100%" src="https://imgur.com/HnnQVxm.gif" />
 
-<p align="center">
-  🚀 **Transformando desafios complexos em soluções tecnológicas inovadoras**<br><br>
+<p align="center" style="font-weight: 600;"> 
+  🚀 <strong>Transformando desafios complexos em soluções tecnológicas inovadoras</strong>
+</p>
+
+<p align="center" >
+  <br>
   Sou um desenvolvedor apaixonado por enfrentar desafios complexos utilizando tecnologia. Valorizo a combinação de habilidades técnicas e uma visão estratégica, o que me permite continuamente refinar e otimizar software. Gosto de aprender constantemente e me manter atualizado com as melhores práticas do desenvolvimento ágil. Meu compromisso é transformar obstáculos em oportunidades e impulsionar projetos com soluções criativas e eficazes.
 </p>
 
