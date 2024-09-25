@@ -30,8 +30,8 @@
 
 <p align="center">
   <a href="https://github.com/gabriellopeszdev" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopeszdev&theme=dark" alt="Streak Stats" style="border-radius: 10px; border: 2px solid #ddd; width: 450px; height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopeszdev&layout=compact&theme=dark" alt="Principais Tecnologias" style="border-radius: 10px; border: 2px solid #ddd; width: 410px; height: 200px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopeszdev&theme=dark" alt="Streak Stats" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopeszdev&layout=compact&theme=dark" alt="Principais Tecnologias" style="border-radius: 10px; border: 2px solid #ddd; width: 400px; height: 200px;" />
   </a>
 </p>
 
