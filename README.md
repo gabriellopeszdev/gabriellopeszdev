@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://imgur.com/Ibr71GO.png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width="100%" src="https://imgur.com/HnnQVxm.gif" />
 
 <p align="center">
   🚀 **Transformando desafios complexos em soluções tecnológicas inovadoras**<br><br>
