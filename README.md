@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width="100%" src="https://imgur.com/HnnQVxm.gif" />
 
-<p align="center" style="font-weight: 600;"> 
+<p align="center" style="font-weight: bold;"> 
   🚀 <strong>Transformando desafios complexos em soluções tecnológicas inovadoras</strong>
 </p>
 
