@@ -33,7 +33,7 @@
   
   [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gabriellopeszdev&theme=dark)](https://github.com/gabriellopeszdev)
   
-  [![Total de Commits](https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/gabriellopeszdev)
+  [![Total de Commits](https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&show_icons=true&count_private=false&include_all_commits=true&theme=dark)](https://github.com/gabriellopeszdev)
 </div>
 
 
