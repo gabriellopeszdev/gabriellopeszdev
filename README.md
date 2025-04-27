@@ -14,40 +14,36 @@
   </a>
 </p>
 
+---
 
-## Áreas de Atuação
+## 🔥 Áreas de Atuação
 
-### Desenvolvimento Back-end
-- Desenvolvimento de APIs escaláveis e sistemas de alta performance utilizando **Node.js**, **Express** e **Fastify**.
-- Experiência com **MySQL** e **MongoDB**, utilizando **Prisma ORM** para gerenciamento e modelagem eficiente de dados.
+### 🛠️ Desenvolvimento Back-end
+- Desenvolvimento de APIs escaláveis e sistemas de alta performance com **Node.js**, **Express** e **Fastify**.
+- Experiência prática com **MySQL** e **MongoDB**, utilizando **Prisma ORM** para modelagem e otimização de dados.
 
-### Conhecimento em Front-end
-- Desenvolvimento de interfaces responsivas com **HTML**, **CSS**, **JavaScript** e **React**, aplicando boas práticas de **UX/UI**.
+### 🎨 Conhecimento em Front-end
+- Desenvolvimento de interfaces responsivas e funcionais utilizando **HTML**, **CSS**, **JavaScript** e **React**.
+- Aplicação de boas práticas de **UX/UI** para melhoria da experiência do usuário.
 
-### Desenvolvimento Contínuo
-- Comprometido com a evolução constante por meio de **certificações**, **cursos** e atualização nas principais tecnologias do mercado.
+### 📚 Desenvolvimento Contínuo
+- Comprometido com a evolução constante por meio de **certificações**, **cursos** e atualização em tecnologias emergentes.
 
+---
 
-## Estatísticas de Contribuição
+## 📊 Estatísticas de Contribuição
 
 <div align="center">
   
-  
-  
   [![Total de Commits](https://github-readme-stats.vercel.app/api?username=gabriellopeszdev&show_icons=true&count_private=false&include_all_commits=true&theme=dark)](https://github.com/gabriellopeszdev)
+
 </div>
 
+---
 
+## 🚀 Habilidades
 
-
-
-
-
-
-
-## Habilidades
-
-#### Principal:
+### 🧩 Principal:
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,43 +54,44 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  align="right" min-width="400px"   max-width="400px" width="400px" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="400px" alt="Computador iuriCode" />
 
-#### Bancos de Dados:
+### 🛢️ Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 <br>
 
-#### Utilitários:
+### ⚙️ Utilitários:
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br>
 
-## Controle de Versão
+## 🔧 Controle de Versão
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## Certificações e Cursos
+---
+
+## 🎓 Certificações e Formação Acadêmica
 
 ### Em andamento:
-- **Bacharelado em Sistema de Informação** - [Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA] 
+- **Bacharelado em Sistemas de Informação** — 2º semestre  
+  [Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA]
 
-## Contatos e Redes Sociais
+---
+
+## 🌐 Contatos e Redes Sociais
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-lopes-5747032bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:devgabriel75@gmail.com">
+  <a href="mailto:devgabriel75@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-
