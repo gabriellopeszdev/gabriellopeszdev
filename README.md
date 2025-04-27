@@ -15,17 +15,18 @@
 </p>
 
 
-## Áreas de Interesse
+## Áreas de Atuação
 
-### Desenvolvimento Front-end
-- **Front-end:** Criar interfaces atraentes e funcionais com HTML, CSS, JavaScript e React.
-- **UX/UI Design:** Melhorar a experiência do usuário e a estética das aplicações web.
+### Desenvolvimento Back-end
+- Desenvolvimento de APIs escaláveis e sistemas de alta performance utilizando **Node.js**, **Express** e **Fastify**.
+- Experiência com **MySQL** e **MongoDB**, utilizando **Prisma ORM** para gerenciamento e modelagem eficiente de dados.
 
-### Interesse em Back-end
-- **Back-end:** Conhecimentos básicos em Node.js, Express e Fastify, com interesse em expandir.
+### Conhecimento em Front-end
+- Desenvolvimento de interfaces responsivas com **HTML**, **CSS**, **JavaScript** e **React**, aplicando boas práticas de **UX/UI**.
 
-### Aprendizado Contínuo
-- **Certificações e Cursos:** Busco constantemente aprimorar minhas habilidades e conhecimentos.
+### Desenvolvimento Contínuo
+- Comprometido com a evolução constante por meio de **certificações**, **cursos** e atualização nas principais tecnologias do mercado.
+
 
 ## Estatísticas de Contribuição
 
