@@ -80,7 +80,7 @@
 ## 🎓 Certificações e Formação Acadêmica
 
 ### Em andamento:
-- **Bacharelado em Sistemas de Informação** — 3º semestre  
+- **Bacharelado em Sistemas de Informação** — 4º semestre  
   [Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA]
 
 ---
